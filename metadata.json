@@ -1,0 +1,6 @@
+{
+  "name": "Angiphile Medical Centre",
+  "description": "Trusted private healthcare clinic at Brikhill Centre, Estcourt, KwaZulu-Natal. Offering family medicine, women's health, chronic disease care, minor procedures, and online appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
